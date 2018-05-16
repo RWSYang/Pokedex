@@ -1,0 +1,32 @@
+.team-view {
+    width: 75%;
+    height: 100%;
+    padding: 10px;
+    background-color: #df095e;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.pokemon-view {
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    background-color: #FFF;
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16);
+}
+
+
+
+.remove{
+    width: 25px;
+    height: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
