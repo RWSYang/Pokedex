@@ -7,7 +7,7 @@ class Pokemon {
         if(data.types[1] != null) {
             this.type2 = this.type1;
             this.type1 = data.types[1].type.name.substr(0,1).toUpperCase() + data.types[1].type.name.substring(1);
-        } else this.type2 = null;
+        } else this.type2 = "None";
 
 
     }

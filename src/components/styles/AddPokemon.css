@@ -1,0 +1,15 @@
+.total{
+    width: 50%;
+}
+
+
+.add-pokemon{
+    width: 250px;
+    height: 100px;
+    margin: 10px;
+    font-family: "Times New Roman",Times,Serif;
+    font-size: 40px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16);
+    border-radius: 5px;
+    background-color: #a50849;
+}
